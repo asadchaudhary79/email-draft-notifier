@@ -2,7 +2,6 @@
 
 /**
  * Plugin Name: Email Draft Notifier
- * Plugin URI: https://Dvst.net
  * Description: Sends email notifications for drafts that have been unpublished for a while. You can customize the email template and choose to send notifications to the site admin, post authors, or both.
  * Version: 1.0.0
  * Author: Muhammad Asad Mushtaq
